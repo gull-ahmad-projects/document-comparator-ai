@@ -47,3 +47,11 @@ A powerful Python-based desktop application that intelligently compares two docu
 
 ```bash
 pip install pdfminer.six python-docx
+```
+---
+
+## 📸 Screenshot
+
+![App Screenshot](screenshot.PNG)
+
+---
