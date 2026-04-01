@@ -1,0 +1,49 @@
+# 📄 Document Comparator AI (Professional Analyzer)
+
+A powerful Python-based desktop application that intelligently compares two documents (PDF or Word) and highlights differences while evaluating which document is more professional.
+
+---
+
+## 🚀 Features
+
+✔️ Compare two documents (PDF / DOCX / DOC)  
+✔️ Detect:
+- Added content (+)
+- Removed content (-)
+- Common content  
+
+✔️ Dual Viewing Modes:
+- Simple Mode (easy & user-friendly)
+- Technical Mode (detailed diff view)
+
+✔️ Professionalism Analyzer:
+- Score documents out of 100
+- Evaluates:
+  - Document structure (Education, Skills, Experience)
+  - Use of professional keywords
+  - Sentence quality
+  - Presence of contact information
+
+✔️ Export Functionality:
+- Download comparison results as `.txt`
+
+✔️ Modern GUI:
+- Clean, responsive, and user-friendly interface built with Tkinter
+
+---
+
+## 🛠️ Technologies Used
+
+- Python 🐍  
+- Tkinter (GUI Development)  
+- pdfminer.six (PDF text extraction)  
+- python-docx (Word document processing)  
+- difflib (Text comparison engine)  
+- Regular Expressions (Text cleaning & analysis)  
+
+---
+
+## 📦 Installation
+
+```bash
+pip install pdfminer.six python-docx
