@@ -52,6 +52,6 @@ pip install pdfminer.six python-docx
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.PNG)
+![App Screenshot](./screenshot.PNG)
 
 ---
